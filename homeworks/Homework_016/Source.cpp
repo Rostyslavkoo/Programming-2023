@@ -235,5 +235,7 @@ void listIntersectingAtRightAngles(Line lines[])
         {
             cout << "Line #" << i + 1 << " does not intersect with the X axis at right angles" << endl;
         }
+        
+        #vova lox
     }
 }
